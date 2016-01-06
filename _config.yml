@@ -1,0 +1,28 @@
+name: briggs
+favicon: null
+layout_spectrum: 0.4569681028369814
+typography_spectrum: 0.17657892662100494
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.677043299889192
+  lightness: 0.46356372302398086
+  saturation: 0.8574150286149234
+  rhythmicContrast: 0.5203497142065316
+purpose: []
